@@ -15,3 +15,5 @@ sitesテーブルも作成。
 
 genresテーブルとSeederを作った。  
 db:seedでハマった時は【composer dump-autoload】で解決するはず。  
+
+全体像としてどんなもんかを考えないと…  
